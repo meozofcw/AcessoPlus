@@ -1,2 +1,2 @@
-# newmeoz
-games oficiais
+# Projeto de Acessibiliadade Para Deficientes Visuais
+Escola Ecs
